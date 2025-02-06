@@ -1,5 +1,7 @@
 <div align="center">
-<h1>🌐 Hello,World?: An AI-Driven Village Simulation</h1>
+<img src="https://cdn.prod.website-files.com/674396c59212c6ea348b24e0/67a50f4b72d388d117c10c27_hello%20world.png" alt="HelloWorld Project Logo" width="800"/>
+
+# 🌐 Hello,World?: An AI-Driven Village Simulation
 <p>Powered by Advanced AI Systems for Dynamic NPC Interactions</p>
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -22,6 +24,7 @@ HelloWorld is a sophisticated AI village simulation that creates a living, breat
 ## 🛠️ Quick Start
 
 ### Prerequisites
+
 - Rust 1.70+
 - Cargo package manager
 - PostgreSQL database
@@ -88,6 +91,7 @@ let config = Config {
 ## 📊 Features
 
 ### NPC Behaviors
+
 - Daily routines
 - Social interactions
 - Memory-based decisions
@@ -95,6 +99,7 @@ let config = Config {
 - Dynamic relationships
 
 ### Town Events
+
 - Community voting
 - Social gatherings
 - Economic activities
@@ -110,4 +115,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 📫 Contact
 
-For questions, issues, or contributions, please visit our [GitHub repository](https://github.com/yourusername/helloworld).
+For questions, issues, or contributions, please visit our [GitHub repository](https://github.com/devforsolana/helloworld).
