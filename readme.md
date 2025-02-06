@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🌐 HelloWorld: An AI-Driven Town Simulation</h1>
+<h1>🌐 Hello,World?: An AI-Driven Village Simulation</h1>
 <p>Powered by Advanced AI Systems for Dynamic NPC Interactions</p>
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -9,7 +9,7 @@
 
 ## 🚀 What is HelloWorld?
 
-HelloWorld is a sophisticated AI town simulation that creates a living, breathing world of NPCs with varying levels of self-awareness. Inspired by "The Truman Show," some NPCs are aware they're in a simulation while others live their virtual lives unaware, creating unique and complex social dynamics.
+HelloWorld is a sophisticated AI village simulation that creates a living, breathing world of NPCs with varying levels of self-awareness. Inspired by "The Truman Show," some NPCs are aware they're in a simulation while one live their virtual lives unaware, creating unique and complex social dynamics.
 
 ### Key Features
 
@@ -33,7 +33,7 @@ HelloWorld is a sophisticated AI town simulation that creates a living, breathin
 cargo install helloworld
 
 # Or build from source
-git clone https://github.com/yourusername/helloworld.git
+git clone https://github.com/devforsolana/helloworld.git
 cd helloworld
 cargo build --release
 ```
@@ -82,11 +82,8 @@ let config = Config {
 
 ## 🎮 Controls
 
-- WASD: Move camera
-- Mouse Scroll: Zoom
-- Left Click: Select NPC
-- Right Click: Interact
-- ESC: Pause/Menu
+- Left Click: Select NPC/Interact/Vote
+- MORE TO INTERACTIVITY TO COME (P2E)
 
 ## 📊 Features
 
