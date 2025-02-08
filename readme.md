@@ -75,7 +75,7 @@ let config = Config {
         max_entities: 1000,
     },
     ai: AiConfig {
-        max_npcs: 100,
+        max_npcs: 20,
         memory_decay_rate: 0.1,
         interaction_radius: 50.0,
         awareness_threshold: 0.8,
