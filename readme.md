@@ -1,11 +1,9 @@
 <h1 align="center">Solana Acres</h1>
 <p align="center">
-<a href="https://github.com/sovagpt/solanaacres/actions/workflows/ci.yml/"><img src="https://github.com/sovagpt/solanaacres/actions/workflows/ci.yml/badge.svg" alt="CI Build Status" /></a>
-<a href="https://github.com/sovagpt/solanaacres/actions/workflows/translate.yml/"><img src="https://github.com/sovagpt/solanaacres/actions/workflows/translate.yml/badge.svg" alt="Translate" /></a>
-<a href="https://github.com/sovagpt/solanaacres/actions/workflows/testnet.yml"><img src="https://github.com/sovagpt/solanaacres/actions/workflows/testnet.yml/badge.svg" alt="Testnet deploy" /></a>
-<a href="https://github.com/sovagpt/solanaacres/actions/workflows/mainnet.yml"> <img src="https://github.com/sovagpt/solanaacres/actions/workflows/mainnet.yml/badge.svg" alt="Mainnet deploy" /></a>
 <a href="https://x.com/solanaacres"><img src="https://img.shields.io/twitter/follow/solanaacres?style=social" height="100%" alt="Twitter Follow: solanaacres" /></a>
 </p>
+
+![small_banner](https://cdn.prod.website-files.com/6740d85c4e3daeef29a89470/67c5eb068e0b4435b4c46adf_994d1fee8b0d0f9ff00a95616423ddf1.png)
 
 ![banner_2400_800-export](https://cdn.prod.website-files.com/6740d85c4e3daeef29a89470/67c5ea976ecc177255bc9a5c_image%20(2)%20(3).gif)
 
