@@ -118,5 +118,3 @@ The previous version was used unethically on other Blockchains. The team is work
 All media assets (images and music) are not available for use in commercial or private projects.
 
 To access the crops, resources and land tiles, please refer to the [SunnySide Asset Pack](https://danieldiggle.itch.io/sunnyside)
-
-If you wish to use Bumpkin NFTs or custom Solana Acres collectibles in your own project please reach out to the core team on [Discord](https://discord.com/invite/solanaacres).
